@@ -30,4 +30,4 @@ In this Project, i did Exploratory Data Analysis on **Haberman-Kaggle DataSet (h
  **EDA-HabermanDataSet.ipynb** contains python code.
  
  ## How to run the code:
-  ** use Ipython(Jupyter)** notebook to run the code.
+  **use Ipython(Jupyter)** notebook to run the code.
