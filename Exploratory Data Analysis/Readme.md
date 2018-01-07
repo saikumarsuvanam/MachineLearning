@@ -1,7 +1,7 @@
 
 #Exploratory Data Analysis on Kaggle DataSet
   
-In this Project, i did Exploratory Data Analysis on **Haberman-Kaggle DataSet**.
+In this Project, i did Exploratory Data Analysis on **Haberman-Kaggle DataSet (https://www.kaggle.com/gilsousa/habermans-survival-data-set/data)**.
 
 
 ## DataSet Information:
@@ -30,4 +30,4 @@ In this Project, i did Exploratory Data Analysis on **Haberman-Kaggle DataSet**.
  **EDA-HabermanDataSet.ipynb** contains python code.
  
  ## How to run the code:
-  ** use Ipython(Jupyter) notebook to run the code.
+  ** use Ipython(Jupyter)** notebook to run the code.
