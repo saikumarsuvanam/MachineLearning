@@ -4,7 +4,7 @@
 In this Project, i did Exploratory Data Analysis on **Haberman-Kaggle DataSet**.
 
 
-## DataSetInformation:
+## DataSet Information:
 
    **Title:** Haberman's Survival Data
 
@@ -25,3 +25,9 @@ In this Project, i did Exploratory Data Analysis on **Haberman-Kaggle DataSet**.
 
    **Missing Attribute Values:** None
 
+ **EDA-HaberManDataSet.pdf** contains all the code, plots and results.
+ 
+ **EDA-HabermanDataSet.ipynb** contains python code.
+ 
+ ## How to run the code:
+  ** use Ipython(Jupyter) notebook to run the code.
