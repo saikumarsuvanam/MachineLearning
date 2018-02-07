@@ -28,7 +28,27 @@
 3) Took a sample from the data set which contains no less than 100 transactions, and for every transaction in the sample found  top 10 transactions 
      in the dataset which have the lowest similarity(i,j).
 4)Sample Result for one of the transaction :
-    For the transaction id = 134354, and Class = 0    *Similar transactions* are :   Class = 0, Similarity = 0.999372, transactionId = 21934   Class = 0, Similarity = 0.999723, transactionId = 219257   Class = 0, Similarity = 0.999944, transactionId = 49906   Class = 0, Similarity = 0.999961, transactionId = 35730   Class = 1, Similarity = 0.999970, transactionId = 43428   Class = 0, Similarity = 0.999982, transactionId = 38442   Class = 0, Similarity = 0.999986, transactionId = 105030   Class = 0, Similarity = 0.999996, transactionId = 80419   Class = 0, Similarity = 0.999996, transactionId = 36749   Class = 0, Similarity = 0.999998, transactionId = 187045     
+    For the transaction id = 134354, and Class = 0
+    *Similar transactions* are :
+   Class = 0, Similarity = 0.999372, transactionId = 21934
+   
+   Class = 0, Similarity = 0.999723, transactionId = 219257
+   
+   Class = 0, Similarity = 0.999944, transactionId = 49906
+   
+   Class = 0, Similarity = 0.999961, transactionId = 35730
+   
+   Class = 1, Similarity = 0.999970, transactionId = 43428
+   
+   Class = 0, Similarity = 0.999982, transactionId = 38442
+   
+   Class = 0, Similarity = 0.999986, transactionId = 105030
+   
+   Class = 0, Similarity = 0.999996, transactionId = 80419
+   
+   Class = 0, Similarity = 0.999996, transactionId = 36749
+   
+   Class = 0, Similarity = 0.999998, transactionId = 187045     
 
 
  **EDA+and+Similarity+of+Transactions+on+CreditCardFraudDetection.pdf** contains all the code, plots and results.
