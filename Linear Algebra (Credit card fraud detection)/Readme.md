@@ -27,9 +27,13 @@
 2) Formula used :similarity(i,j) = dot product (vi, vj) / length(vi) * length(vj)
 3) Took a sample from the data set which contains no less than 100 transactions, and for every transaction in the sample found  top 10 transactions 
      in the dataset which have the lowest similarity(i,j).
-4)Sample Result for one of the transaction :
-    For the transaction id = 134354, and Class = 0
+     
+4) Sample Result for one of the transaction :
+    
+    For the transaction id = 134354, and Class = 0.
+    
     *Similar transactions* are :
+    
    Class = 0, Similarity = 0.999372, transactionId = 21934
    
    Class = 0, Similarity = 0.999723, transactionId = 219257
