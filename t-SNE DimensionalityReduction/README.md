@@ -29,7 +29,8 @@ As t-SNE takes lot of time for 28k transactions i under-sampled unbalanced datas
      
   ####   t-SNE results on Nearly Imbalanced dataSet.
      
-     ![alt text](ScreenShots/Imbalanced1.png)
+     ![Optional Text](../master/ScreenShots/Imbalanced1.png)
+     
      
      ![alt text](ScreenShots/Imbalanced2.png)
        
