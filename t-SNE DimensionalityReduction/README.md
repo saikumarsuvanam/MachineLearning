@@ -35,9 +35,9 @@ As t-SNE takes lot of time for 28k transactions i under-sampled unbalanced datas
      
   ####   t-SNE results on Perfectly balanced dataSet.
        
-      <p align="center">
+   <p align="center">
   <img src="https://github.com/saikumarsuvanam/MachineLearning/blob/master/t-SNE%20DimensionalityReduction/ScreenShots/balanced1.png" width="350"/>
-  <img src="https://github.com/saikumarsuvanam/MachineLearning/blob/master/t-SNE%20DimensionalityReduction/ScreenShots/balanced1.png" width="350"/>
+  <img src="https://github.com/saikumarsuvanam/MachineLearning/blob/master/t-SNE%20DimensionalityReduction/ScreenShots/balanced2.png" width="350"/>
 </p>
      
      
