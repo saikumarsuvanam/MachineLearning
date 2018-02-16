@@ -28,7 +28,7 @@ As t-SNE takes lot of time for 28k transactions i under-sampled unbalanced datas
      Detailed report can be found at TsnePlotOnCreditCard.pdf
      
   ####   t-SNE results on Nearly Imbalanced dataSet.
-     
+     ![alt text](https://github.com/saikumarsuvanam/MachineLearning/blob/master/t-SNE%20DimensionalityReduction/ScreenShots/Imbalanced1.png)
      ![Alt text](https://github.com/saikumarsuvanam/MachineLearning/blob/master/t-SNE%20DimensionalityReduction/ScreenShots/Imbalanced1.png?raw=true "Title")
      
      
