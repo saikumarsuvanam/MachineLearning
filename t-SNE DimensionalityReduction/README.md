@@ -29,7 +29,7 @@ As t-SNE takes lot of time for 28k transactions i under-sampled unbalanced datas
      
   ####   t-SNE results on Nearly Imbalanced dataSet.
   <p align="center">
-  <img src="https://github.com/saikumarsuvanam/MachineLearning/t-SNE DimensionalityReduction/ScreenShots/Imbalanced1.png" width="350"/>
+  <img src="https://github.com/saikumarsuvanam/MachineLearning/t-SNE%20DimensionalityReduction/ScreenShots/Imbalanced1.png" width="350"/>
   <img src="your_relative_path_here_number_2_large_name" width="350"/>
 </p>
      ![alt text](https://github.com/saikumarsuvanam/MachineLearning/t-SNE DimensionalityReduction/ScreenShots/Imbalanced1.png)
